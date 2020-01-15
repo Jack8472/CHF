@@ -3,7 +3,7 @@ title: Prawne aspekty kretydów frankowych
 date: styczeń 2020 r.
 ...
 
-plik dostępny na: https://github.com/Jack8472/CHF
+Plik dostępny na: [https://github.com/Jack8472/CHF](https://github.com/Jack8472/CHF)
 
 # Istota kredytów „frankowych“
 
